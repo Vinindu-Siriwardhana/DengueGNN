@@ -197,34 +197,52 @@ DengueGNN/
 ```bash
 conda create -n denguegnn python=3.10
 conda activate denguegnn
-
 pip install torch torchvision torchaudio
 pip install torch-geometric
 pip install fair-esm
-pip install biopython pandas numpy tqdm
+pip install biopython pandas numpy tqdm requests openpyxl
 ```
 
 ---
 
-### 2️) Train Model
+### 2️) Download Required Data
 
-```bash
-python train.py
-```
+Before running the notebook, ensure you have:
+- Human PPI data from [STRING DB](https://string-db.org/) (score ≥ 700)
+- AlphaFold structure files (downloaded automatically by the notebook)
+- NS1 crystal structure: PDB ID `4O6B` (place in `data/structures/`)
 
 ---
 
-### 3️) Screen Human Proteome
+### 3️) Run the Notebook
 
-```bash
-python screen_proteome.py
-```
+Open and run cells sequentially in `notebooks/DengueGNN_Master_File.ipynb`:
 
-Output:
+| Section | What it does |
+|---|---|
+| Data & Structure Download | Fetches AlphaFold PDB files for all unique proteins in STRING |
+| Featurization (STRING proteins) | Builds ESM-2 + graph representations for ~717 unique STRING proteins, saves to `data/processed/` |
+| Training | Trains the Siamese GATv2 model on STRING pairs, saves best checkpoint to `models/best_dengue_gnn.pth` |
+| Proteome-Wide Featurization | Builds ESM-2 + graph representations for all 20,565 human proteins |
+| Proteome Screening | Scores all 20,565 human proteins against NS1 |
+| Results | Exports ranked CSV to `results/` |
 
-```
-ns1_human_interactome_results.csv
-```
+> ⚠️ **Hardware note:** Trained and screened on an NVIDIA RTX 4050 (6GB VRAM).  
+> Full proteome featurization + screening takes ~16 hours total.
+
+---
+
+### 4️) Pre-computed Results
+
+If you want to explore the findings without re-running the full pipeline, all outputs are already provided in `results/`:
+
+| File | Description |
+|---|---|
+| `ns1_human_interactome_results.csv` | Full proteome scores (20,565 proteins) |
+| `top_200_ns1_interactors.csv` | Top 200 predicted interactors with gene names |
+| `hdock_binding/NS1-AKT1/` | HDOCK docking models for NS1–AKT1 |
+| `hdock_binding/NS1-CA1/` | HDOCK docking models for NS1–CA1 |
+
 
 ---
 

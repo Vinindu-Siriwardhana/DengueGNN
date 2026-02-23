@@ -140,17 +140,19 @@ Potential explanation for metabolic acidosis in dengue shock — never previousl
 ```
 DengueGNN/
 │
+│──Binding Results from HDOCK
+|
+├── Results/
+│   ├── ns1_human_interactome_results.csv
+│   ├── top_200_ns1_interactors.csv
+│    
+│ 
 ├── data/
 │   ├── interaction_master_list_uniprot.csv
 │   └── splits/
 │       ├── train.csv
 │       ├── val.csv
 │       └── test.csv
-│
-├── results/
-│   ├── ns1_human_interactome_results.csv
-│   ├── top_200_ns1_interactors.csv
-│   └── hdock_binding_results.csv
 │
 ├── models/
 │   └── best_dengue_gnn.pth

@@ -156,6 +156,12 @@ Top GNN predictions were independently validated using HDOCK protein-protein doc
 
 **NS1-CA1** represents the most novel finding in this study.
 
+<img width="4000" height="2457" alt="NS1-CA1 protien Interaction" src="https://github.com/user-attachments/assets/d58c560e-517e-4003-b08f-365e69ccfa71" />
+NS1-CA1 Molecular Docking
+
+<img width="4000" height="2457" alt="NS1-AKT1_protein_interaction" src="https://github.com/user-attachments/assets/45eb8e37-c8ca-4fdc-af41-7cec84c8a2a2" />
+NS1-AKT1 Molecular Docking
+
 ---
 
 ##  Repository Structure

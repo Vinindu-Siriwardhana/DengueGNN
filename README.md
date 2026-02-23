@@ -59,7 +59,7 @@ Each protein is converted into a graph:
 | Nodes         | Amino acid residues (Cα coordinates) |
 | Node Features | 480-dim ESM-2 embeddings             |
 | Edges         | Residues within 10 Å                 |
-| Edge Weight   | 1 / distance                         |
+| Edge Weight   | distance                             |
 | QC            | AlphaFold pLDDT > 50                 |
 
 **Embeddings:** `esm2_t12_35M_UR50D` (35M parameter transformer)
@@ -126,7 +126,7 @@ TNF · IL6 · TRAF6
 
 ### 3️) Novel Discovery Hub
 
-AKT1 · ADIPOQ · CA1 · CA2 · CA3
+ADIPOQ · CA1 · CA2 · CA3
 
 **Most Novel Finding:**
 Predicted NS1 binding to Carbonic Anhydrases (CA1/CA2/CA3)
@@ -228,15 +228,6 @@ ns1_human_interactome_results.csv
 
 ---
 
-##  Recommended Experimental Validation
-
-1. Co-IP or SPR validation for CA1/CA2
-2. Docking (ClusPro / HADDOCK) for NS1–AKT1
-3. In-silico mutagenesis of NS1 binding hotspots
-4. STRING network enrichment of Top 200 genes
-
----
-
 ##  Why This Matters
 
 This project demonstrates that:
@@ -244,8 +235,6 @@ This project demonstrates that:
 * Viral-host interactome discovery can be performed without supercomputers
 * Structural GNNs can identify biologically meaningful clusters
 * Novel therapeutic hypotheses can emerge from AI-first discovery pipelines
-
-Carbonic Anhydrase interaction alone may warrant standalone publication.
 
 ---
 

@@ -26,7 +26,7 @@ This entire pipeline runs on a consumer GPU (RTX 4050, 6GB VRAM).
 
 *  Achieved **Test AUC = 0.8729** on held-out human PPI prediction
 *  Screened entire human proteome against NS1 (PDB: 4O6B)
-*  Rediscovered known NS1 interactors (ACTB, UBB) without training on NS1 data
+*  Predicted known NS1 interactors (ACTB, UBB) with High Probability (>0.9) without training on NS1 data
 *  Identified 3 biological hubs explaining severe dengue
 *  Discovered a **novel predicted NS1–Carbonic Anhydrase interaction** (CA1/CA2/CA3)
 *  HDOCK docking confirmed NS1–CA1 (confidence 0.8359) and NS1–AKT1 (confidence 0.8352) as high-confidence structural interactions

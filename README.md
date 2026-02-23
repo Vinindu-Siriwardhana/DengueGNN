@@ -3,7 +3,7 @@
 **DengueGNN: In Silico Discovery of the Dengue NS1 Human Interactome via Siamese Graph Attention Networks and Proteome-Wide Screening**
 Vinindu Siriwardhana — February 2026
 
-Mapping how Dengue virus hijacks the human body using Graph Neural Networks.
+![Graphic](https://github.com/user-attachments/assets/988a26f6-2adb-4d28-8c0f-25d27fc634ea)
 
 ---
 

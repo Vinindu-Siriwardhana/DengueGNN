@@ -1,0 +1,201 @@
+uniprot_id,interaction_score,gene_name,protein_description
+P31749,0.9526971578598022,AKT1,RAC-alpha serine/threonine-protein kinase
+P98088,0.9427412748336792,MUC5AC,Mucin-5AC
+P01375,0.9415789842605592,N/A,N/A
+P35222,0.934172749519348,CTNNB1,Catenin beta-1
+P0CG47,0.91880601644516,UBB,Polyubiquitin-B
+P0CG48,0.9174864292144777,UBC,Polyubiquitin-C
+Q9HC84,0.91371887922287,MUC5B,Mucin-5B
+P63261,0.9057114720344543,ACTG1,"Actin, cytoplasmic 2"
+P60709,0.9047071933746338,ACTB,"Actin, cytoplasmic 1"
+Q8TC94,0.9037424325942992,ACTL9,Actin-like protein 9
+P62736,0.9000647664070129,ACTA2,"Actin, aortic smooth muscle"
+P63267,0.8982946872711182,ACTG2,"Actin, gamma-enteric smooth muscle"
+Q15848,0.8981611728668213,ADIPOQ,Adiponectin
+P01106,0.8975575566291809,MYC,Myc proto-oncogene protein
+P68032,0.8974766135215759,ACTC1,"Actin, alpha cardiac muscle 1"
+P68133,0.8973355889320374,ACTA1,"Actin, alpha skeletal muscle"
+Q16665,0.8959580659866333,HIF1A,Hypoxia-inducible factor 1-alpha
+Q562R1,0.8937616348266602,ACTBL2,Beta-actin-like protein 2
+P03372,0.8910998106002808,ESR1,Estrogen receptor
+Q9BYX7,0.8884925246238708,POTEKP,Putative beta-actin-like protein 3
+Q9Y614,0.8883180022239685,ACTL7B,Actin-like protein 7B
+P61586,0.8869490623474121,RHOA,Transforming protein RhoA
+P42025,0.8716296553611755,ACTR1B,Beta-centractin
+Q9Y4K3,0.8716054558753967,TRAF6,TNF receptor-associated factor 6
+Q9Y243,0.8697606325149536,AKT3,RAC-gamma serine/threonine-protein kinase
+P04406,0.8645120859146118,GAPDH,Glyceraldehyde-3-phosphate dehydrogenase
+P05231,0.8642951250076294,IL6,Interleukin-6
+P61163,0.8641526699066162,ACTR1A,Alpha-centractin
+Q9BYD9,0.8589658141136169,ACTRT3,Actin-related protein T3
+P62745,0.8589006066322327,RHOB,Rho-related GTP-binding protein RhoB
+Q8TDY3,0.8545112609863281,ACTRT2,Actin-related protein T2
+Q8TDG2,0.8488403558731079,ACTRT1,Actin-related protein T1
+Q5T1H1,0.8481782674789429,EYS,Protein eyes shut homolog
+Q9GZN1,0.8463166952133179,ACTR6,Actin-related protein 6
+Q9Y615,0.8456855416297913,ACTL7A,Actin-like protein 7A
+P10415,0.8401848673820496,BCL2,Apoptosis regulator Bcl-2
+P67775,0.8370288610458374,PPP2CA,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform
+P81133,0.8337770104408264,SIM1,Single-minded homolog 1
+Q06124,0.8325843811035156,PTPN11,Tyrosine-protein phosphatase non-receptor type 11
+Q9Y6K9,0.8314942717552185,IKBKG,NF-kappa-B essential modulator
+P61160,0.8303619623184204,ACTR2,Actin-related protein 2
+P27986,0.8293596506118774,PIK3R1,Phosphatidylinositol 3-kinase regulatory subunit alpha
+Q9H568,0.8189797401428223,ACTL8,Actin-like protein 8
+Q14190,0.816847562789917,SIM2,Single-minded homolog 2
+P61158,0.8150258660316467,ACTR3,Actin-related protein 3
+Q9NQZ3,0.81166672706604,DAZ1,Deleted in azoospermia protein 1
+Q0Z7S8,0.7956504821777344,FABP9,Fatty acid-binding protein 9
+Q16048,0.7943316698074341,PMCHL1,Putative pro-MCH-like protein 1
+O75394,0.7941692471504211,MRPL33,Large ribosomal subunit protein bL33m
+Q9UI72,0.7879443168640137,N/A,N/A
+P25445,0.787726879119873,FAS,Tumor necrosis factor receptor superfamily member 6
+Q8TAT8,0.7855756878852844,N/A,N/A
+P07148,0.7847710251808167,FABP1,"Fatty acid-binding protein, liver"
+Q8WXI7,0.7790175080299377,MUC16,Mucin-16
+Q02817,0.7762604355812073,MUC2,Mucin-2
+O60669,0.768531858921051,SLC16A7,Monocarboxylate transporter 2
+Q6ZRI0,0.7646836042404175,OTOG,Otogelin
+Q9NPD3,0.7644206285476685,EXOSC4,Exosome complex component RRP41
+Q6ZRP5,0.7628399133682251,N/A,N/A
+O43866,0.7603524327278137,CD5L,CD5 antigen-like
+A0AAG2UXD8,0.7578000426292419,LOC102724250,Olduvai domain-containing protein
+Q9P1U1,0.7534220218658447,ACTR3B,Actin-related protein 3B
+Q3LI62,0.7518449425697327,KRTAP20-4,Putative keratin-associated protein 20-4
+Q9BXR6,0.751166582107544,CFHR5,Complement factor H-related protein 5
+Q02505,0.7486386895179749,MUC3A,Mucin-3A
+Q9BQD1,0.7450324296951294,PMCHL2,Putative pro-MCH-like protein 2
+Q7Z3S9,0.7426314949989319,NOTCH2NLA,Notch homolog 2 N-terminal-like protein A
+P49720,0.7405045032501221,PSMB3,Proteasome subunit beta type-3
+Q9UHU1,0.7359022498130798,N/A,N/A
+P16070,0.7346447110176086,CD44,CD44 antigen
+Q9Y2N7,0.732149064540863,HIF3A,Hypoxia-inducible factor 3-alpha
+Q9Y3A5,0.7303164601325989,SBDS,Ribosome maturation protein SBDS
+Q6TDP4,0.7288167476654053,KLHL17,Kelch-like protein 17
+A0A6Q8PGS0,0.7284759879112244,N/A,N/A
+Q9H7Z7,0.7283266186714172,PTGES2,Prostaglandin E synthase 2
+O96019,0.7260391712188721,ACTL6A,Actin-like protein 6A
+Q9H4E5,0.7215639352798462,RHOJ,Rho-related GTP-binding protein RhoJ
+A0A2R8Y4Y8,0.7203894853591919,OOSP4B,Oocyte-secreted protein 4B
+Q9NVQ4,0.7185670137405396,FAIM,Fas apoptotic inhibitory molecule 1
+Q96F15,0.7164138555526733,GIMAP5,GTPase IMAP family member 5
+Q8N1Q1,0.7153561115264893,CA13,Carbonic anhydrase 13
+O94805,0.7141097784042358,ACTL6B,Actin-like protein 6B
+O75973,0.7137333154678345,C1QL1,C1q-related factor
+P00918,0.7123576998710632,CA2,Carbonic anhydrase 2
+O15540,0.7113362550735474,FABP7,"Fatty acid-binding protein, brain"
+O14920,0.7112115621566772,IKBKB,Inhibitor of nuclear factor kappa-B kinase subunit beta
+Q99814,0.7107061147689819,EPAS1,Endothelial PAS domain-containing protein 1
+Q9Y3I0,0.7094007730484009,RTCB,RNA-splicing ligase RTCB
+Q02543,0.7073266506195068,RPL18A,Large ribosomal subunit protein eL20
+Q99102,0.7066947221755981,MUC4,Mucin-4
+P05230,0.7063739895820618,FGF1,Fibroblast growth factor 1
+P12104,0.7040350437164307,FABP2,"Fatty acid-binding protein, intestinal"
+Q8N807,0.6997208595275879,PDILT,Protein disulfide-isomerase-like protein of the testis
+Q9UI54,0.699704110622406,N/A,N/A
+Q08E93,0.6993415355682373,FAM27E3,Protein FAM27E3
+Q96L58,0.6978566646575928,B3GALT6,"Beta-1,3-galactosyltransferase 6"
+Q7Z5P9,0.6977351903915405,MUC19,Mucin-19
+A0A3B3IU63,0.6972096562385559,H2AL3,Histone H2A-like 3
+P05413,0.6966509222984314,FABP3,"Fatty acid-binding protein, heart"
+P35218,0.694652259349823,CA5A,"Carbonic anhydrase 5A, mitochondrial"
+P00441,0.6945626139640808,SOD1,Superoxide dismutase [Cu-Zn]
+Q86SH4,0.691770613193512,PRNT,Putative testis-specific prion protein
+A0A7I2V6D3,0.6916078925132751,N/A,N/A
+Q9GZY1,0.6901636719703674,PBOV1,Prostate and breast cancer overexpressed gene 1 protein
+Q9H195,0.6888657808303833,MUC3B,Mucin-3B
+Q86SG3,0.6886346936225891,DAZ4,Deleted in azoospermia protein 4
+Q86SX6,0.6881687045097351,GLRX5,"Glutaredoxin-related protein 5, mitochondrial"
+Q6ZRX8,0.6872520446777344,N/A,N/A
+A0N4X2,0.6867544651031494,N/A,N/A
+Q6UXN2,0.6842846870422363,TREML4,Trem-like transcript 4 protein
+P11166,0.6838131546974182,SLC2A1,"Solute carrier family 2, facilitated glucose transporter member 1"
+Q96MF4,0.6798441410064697,CCDC140,Coiled-coil domain-containing protein 140
+Q86UQ5,0.6792944669723511,GTSCR1,Gilles de la Tourette syndrome chromosomal region candidate gene 1 protein
+P00915,0.6792551875114441,CA1,Carbonic anhydrase 1
+Q8IUM7,0.6761113405227661,NPAS4,Neuronal PAS domain-containing protein 4
+P07451,0.6759342551231384,CA3,Carbonic anhydrase 3
+Q96QV1,0.6741572618484497,HHIP,Hedgehog-interacting protein
+O95967,0.6728736162185669,EFEMP2,EGF-containing fibulin-like extracellular matrix protein 2
+Q9UHT4,0.6724966168403625,N/A,N/A
+Q3ZCW2,0.6706270575523376,LGALSL,Galectin-related protein
+P31751,0.66961669921875,AKT2,RAC-beta serine/threonine-protein kinase
+Q5JWF8,0.6679850816726685,ACTL10,Actin-like protein 10
+Q6ZP68,0.6672060489654541,ATP11AUN,Putative protein ATP11AUN
+P31358,0.6646162271499634,CD52,CAMPATH-1 antigen
+O95150,0.6621992588043213,TNFSF15,Tumor necrosis factor ligand superfamily member 15
+Q0D2K5,0.6619852185249329,EGFEM1P,Putative EGF-like and EMI domain-containing protein 1
+Q8TF20,0.6567991375923157,ZNF721,Zinc finger protein 721
+P62714,0.6551379561424255,PPP2CB,Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform
+A6NE02,0.6537835001945496,BTBD17,BTB/POZ domain-containing protein 17
+Q6ZR52,0.6529754996299744,ZNF493,Zinc finger protein 493
+Q01813,0.6520956754684448,PFKP,"ATP-dependent 6-phosphofructokinase, platelet type"
+Q6P9H5,0.6512552499771118,GIMAP6,GTPase IMAP family member 6
+Q86Y22,0.6507065296173096,COL23A1,Collagen alpha-1(XXIII) chain
+P0C6P0,0.6489713191986084,NBEAP1,Putative protein BCL8
+P48645,0.6474104523658752,NMU,Neuromedin-U
+A6NEY8,0.6473752856254578,PRORSD1P,Putative prolyl-tRNA synthetase associated domain-containing protein 1
+P08575,0.6451248526573181,PTPRC,Receptor-type tyrosine-protein phosphatase C
+Q4U2R8,0.6446992754936218,SLC22A6,Solute carrier family 22 member 6
+P27540,0.6443803906440735,ARNT,Aryl hydrocarbon receptor nuclear translocator
+O14788,0.6435471773147583,TNFSF11,Tumor necrosis factor ligand superfamily member 11
+P11117,0.643514096736908,ACP2,Lysosomal acid phosphatase
+Q14554,0.6418743133544922,PDIA5,Protein disulfide-isomerase A5
+P62993,0.6405420899391174,GRB2,Growth factor receptor-bound protein 2
+A0A8V8TLL3,0.6398469805717468,N/A,N/A
+Q86UT5,0.6392104625701904,NHERF4,Na(+)/H(+) exchange regulatory cofactor NHE-RF4
+Q9HBZ2,0.6390746831893921,ARNT2,Aryl hydrocarbon receptor nuclear translocator 2
+P46095,0.6381443738937378,GPR6,G-protein coupled receptor 6
+O94766,0.6370563507080078,B3GAT3,Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3
+A8MQ11,0.6353221535682678,PMS2P5,Postmeiotic segregation increased 2-like protein 5
+Q96A19,0.6332660913467407,CCDC102A,Coiled-coil domain-containing protein 102A
+P29353,0.6315525770187378,SHC1,SHC-transforming protein 1
+P29466,0.6276523470878601,CASP1,Caspase-1
+Q9BUZ4,0.6254319548606873,TRAF4,TNF receptor-associated factor 4
+P60484,0.6242895722389221,PTEN,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN"
+Q9UKP6,0.6219364404678345,UTS2R,Urotensin-2 receptor
+Q14602,0.6216638088226318,ID2B,Putative DNA-binding protein inhibitor ID-2B
+O00746,0.6212108731269836,NME4,"Nucleoside diphosphate kinase D, mitochondrial"
+O14556,0.617477536201477,GAPDHS,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific"
+Q7Z5L3,0.6172496676445007,C1QL2,Complement C1q-like protein 2
+P00387,0.6170311570167542,CYB5R3,NADH-cytochrome b5 reductase 3
+Q9NTU7,0.6168217062950134,CBLN4,Cerebellin-4
+P13236,0.6167231202125549,CCL4,C-C motif chemokine 4
+Q13588,0.6165295243263245,GRAP,GRB2-related adapter protein
+Q6UXQ4,0.6143624186515808,C2orf66,Uncharacterized protein C2orf66
+P29762,0.6118718385696411,CRABP1,Cellular retinoic acid-binding protein 1
+Q15853,0.611627995967865,USF2,Upstream stimulatory factor 2
+O95613,0.6114868521690369,PCNT,Pericentrin
+P43166,0.6102481484413147,CA7,Carbonic anhydrase 7
+Q8IVJ8,0.6097853779792786,APRG1,APRG1 tumor suppressor candidate
+Q92496,0.608809769153595,CFHR4,Complement factor H-related protein 4
+P51161,0.6085337996482849,FABP6,Gastrotropin
+Q9BXJ4,0.6075575351715088,C1QTNF3,Complement C1q tumor necrosis factor-related protein 3
+Q9NZN9,0.6070175170898438,AIPL1,Aryl-hydrocarbon-interacting protein-like 1
+P15090,0.6066515445709229,FABP4,"Fatty acid-binding protein, adipocyte"
+P50120,0.6054890155792236,RBP2,Retinol-binding protein 2
+Q86UQ8,0.6049225330352783,NFE4,Transcription factor NF-E4
+A0A0A0MS02,0.6044217944145203,TRGV1,Probable non-functional T cell receptor gamma variable
+Q9UIL4,0.604418158531189,KIF25,Kinesin-like protein KIF25
+Q8N9T2,0.6038394570350647,NKAPP1,Putative uncharacterized protein CXorf42
+O60783,0.6000593900680542,MRPS14,Small ribosomal subunit protein uS14m
+P49715,0.598694384098053,CEBPA,CCAAT/enhancer-binding protein alpha
+Q8NFR9,0.5986334085464478,IL17RE,Interleukin-17 receptor E
+P35219,0.5980179309844971,CA8,Carbonic anhydrase-related protein
+Q156A1,0.59774249792099,ATXN8,Ataxin-8
+Q9BY41,0.5962664484977722,HDAC8,Histone deacetylase 8
+P60827,0.5950260162353516,C1QTNF8,Complement C1q tumor necrosis factor-related protein 8
+Q9Y2A9,0.593755304813385,B3GNT3,"N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 3"
+P36980,0.5931410789489746,CFHR2,Complement factor H-related protein 2
+Q969J5,0.5931139588356018,IL22RA2,Interleukin-22 receptor subunit alpha-2
+P49368,0.5921086668968201,CCT3,T-complex protein 1 subunit gamma
+A0A1B0GUT2,0.5914720296859741,C10orf143,Uncharacterized protein C10orf143
+A0A8I5QJV6,0.5908496379852295,N/A,N/A
+P01732,0.5904698371887207,CD8A,T-cell surface glycoprotein CD8 alpha chain
+Q13077,0.5896326899528503,TRAF1,TNF receptor-associated factor 1
+Q8IUK8,0.5896297097206116,CBLN2,Cerebellin-2
+P48146,0.5895014405250549,NPBWR2,Neuropeptides B/W receptor type 2
+P08670,0.588622510433197,VIM,Vimentin
+P01112,0.5868434906005859,HRAS,GTPase HRas
+P30740,0.5864228010177612,SERPINB1,Leukocyte elastase inhibitor
+P10720,0.585235059261322,PF4V1,Platelet factor 4 variant

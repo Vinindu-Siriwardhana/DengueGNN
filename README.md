@@ -244,10 +244,9 @@ MIT License
 
 ## Contact
 
-Vinindu Siriwardhana
-in/vinindu-siriwardhana
+Vinindu Manula Siriwardhana
+https://www.linkedin.com/in/vinindu-siriwardhana/
 vinidusiri@gmail.com
-
 
 ---
 

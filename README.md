@@ -148,11 +148,11 @@ DengueGNN/
 │    
 │ 
 ├── data/
-│   ├── interaction_master_list_uniprot.csv
 │   └── splits/
 │       ├── train.csv
 │       ├── val.csv
 │       └── test.csv
+├    ├── interaction_master_list_uniprot.csv
 │
 ├── models/
 │   └── best_dengue_gnn.pth

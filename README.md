@@ -116,7 +116,7 @@ Output: Ranked CSV of predicted NS1 interactors
 ###  Predicted NS1–Human Interactome Map
 
 <img width="1497" height="1620" alt="string_normal_image" src="https://github.com/user-attachments/assets/de35e963-7e47-4c2e-bc11-2756ef809701" />
-Figure 1: Functional interaction network of the top 200 human proteins predicted by DengueGNN. Nodes represent human proteins; edges represent known human-human interactions (STRING v12.0).
+Figure: Functional interaction network of the top 200 human proteins predicted by DengueGNN. Nodes represent human proteins; edges represent known human-human interactions (STRING v12.0).
 
 ---
 ##  Major Biological Findings

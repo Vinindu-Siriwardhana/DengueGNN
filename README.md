@@ -73,7 +73,7 @@ Each protein is converted into a graph:
 **Training data source:** STRING database (score ≥ 700)
 
 * 56,182 human-human protein pairs
-* 1:1 negative sampling
+* Nearly 1:1 negative sampling
 * Strict protein-level split (no leakage)
 
 | Split      | Pairs  |
